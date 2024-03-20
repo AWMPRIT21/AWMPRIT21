@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milini Rajapaksha</h1>
 <h3 align="center">I am still an BSc (Hons) in Information Technology Undergraduate of General Sir John Kotelawala Defence University</h3>
-<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/204702745549241158/">
+<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/204702745549241158">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awmprit21&label=Profile%20views&color=0e75b6&style=flat" alt="awmprit21" /> </p>
 
