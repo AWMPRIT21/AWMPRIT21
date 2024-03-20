@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milini Rajapaksha</h1>
 <h3 align="center">I am still an BSc (Hons) in Information Technology Undergraduate of General Sir John Kotelawala Defence University</h3>
-<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/204702745549241158">
+<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/204702745549241158](https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif&tbnid=iglm_B7Yj-18wM&vet=12ahUKEwixxKKW5YKFAxVO-TgGHfCYA_gQMygaegUIARClAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&docid=hqmA8T4OFW0sOM&w=242&h=200&q=coding%20person%20gif&ved=2ahUKEwixxKKW5YKFAxVO-TgGHfCYA_gQMygaegUIARClAQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awmprit21&label=Profile%20views&color=0e75b6&style=flat" alt="awmprit21" /> </p>
 
