@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Dart, Python, Figma ,etc.**
 
-- 💬 Ask me about **Java , PHP , Databases**
+- 💬 Ask me about **Java , PHP**
 
-- ⚡ Fun fact **I a fast learner.**
+- ⚡ Fun fact **I'm a fast learner.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
